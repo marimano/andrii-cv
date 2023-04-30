@@ -18,7 +18,7 @@ export default () => {
                 </g>
             </svg>
         <ul className={'nav__list icon'}>
-            <a className={"neon-icon"} href="Webpack-Project/source/components/Header">
+            <a className={"neon-icon"} href="Webpack-Project/src/components/Header">
             <svg className={"nav-menu-logo_nav"} xmlns="http://www.w3.org/2000/svg" width="2500" height="2500" viewBox="0 0 192.756 192.756">
                 <g fillRule="evenodd" clipRule="evenodd">
                     <path fill="transparent" d="M0 0h192.756v192.756H0V0z"/>

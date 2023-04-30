@@ -102,23 +102,23 @@ export default () => {
             <li>German A2</li>
             <h4>PORTFOLIO</h4>
             <li>Project: Psychologist Marin</li>
-            <a href="Webpack-Project/source/pages/Resume">
+            <a href="Webpack-Project/src/pages/Resume">
                 https://andriidobronos.github.io/<br/>frontend_project_Marin/
             </a>
             <li>Project: Hlegal</li>
-            <a href="Webpack-Project/source/pages/Resume">
+            <a href="Webpack-Project/src/pages/Resume">
                 https://andriidobronos.github.io/<br/>git_project_hlegal/
             </a>
             <li>Project: Obvilink</li>
-            <a href="Webpack-Project/source/pages/Resume">
+            <a href="Webpack-Project/src/pages/Resume">
                 https://andriidobronos.github.io/<br/>git_project_Obvilink/
             </a>
             <li>Project: Austera</li>
-            <a href="Webpack-Project/source/pages/Resume">
+            <a href="Webpack-Project/src/pages/Resume">
                 https://andriidobronos.github.io/<br/>git_project_Austera/
             </a>
             <li>Project: Lokalise</li>
-            <a href="Webpack-Project/source/pages/Resume">
+            <a href="Webpack-Project/src/pages/Resume">
                 https://andriidobronos.github.io/<br/>git_project_Lokalise/
             </a>
          <Button

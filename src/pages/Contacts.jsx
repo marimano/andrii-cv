@@ -26,11 +26,11 @@ export default () => {
         <ul>
         <li className="contacts-box">
             <img className={"contacts-box-img"} src="../../static/Logo/linkedin.png" alt="Icon my linkedin"/>
-            <a className="contacts-box-link" href="Webpack-Project/source/pages/Contacts">andrii-dobronos</a>
+            <a className="contacts-box-link" href="Webpack-Project/src/pages/Contacts">andrii-dobronos</a>
         </li>
         <li className="contacts-box">
             <img className={"contacts-box-img"} src="../../static/Logo/github.png" alt="Icon my github"/>
-            <a className="contacts-box-link" href="Webpack-Project/source/pages/Contacts">AndriiDobronos</a>
+            <a className="contacts-box-link" href="Webpack-Project/src/pages/Contacts">AndriiDobronos</a>
         </li>
         <li className="contacts-box">
             <img className={"contacts-box-img"} src="../../static/Logo/google-maps.png" alt="Icon my location"/>
