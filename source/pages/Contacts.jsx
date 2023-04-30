@@ -33,12 +33,12 @@ export default () => {
             <a className="contacts-box-link" href="Webpack-Project/source/pages/Contacts">AndriiDobronos</a>
         </li>
         <li className="contacts-box">
-            <img className={"contacts-box-img"} src="../../static/Logo/google-maps.png" alt="Icon my github"/>
+            <img className={"contacts-box-img"} src="../../static/Logo/google-maps.png" alt="Icon my location"/>
             <a className="contacts-box-link" href="https://www.google.com.ua/maps/@50.0189617,36.3362132,13.16z?hl=ru">City of Kharkiv</a>
         </li>
         <li className="contacts-box">
             <img className={"contacts-box-img"} src="../../static/Logo/website.png" alt="Icon my website"/>
-            <a className="contacts-box-link" href="Webpack-Project/source/pages/Contacts">site_test_with_timing</a>
+            <a className="contacts-box-link" href="https://cv-courses-project.netlify.app/">https://cv-courses-project.<br/>netlify.app/</a>
         </li>
         </ul>
         </div>
